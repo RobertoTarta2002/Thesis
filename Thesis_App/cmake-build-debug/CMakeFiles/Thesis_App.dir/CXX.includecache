@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/Tabulation.cpp
+Tabulation.h
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/Tabulation.h
+
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/Tabulation.h
+iostream
+-
+vector
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/vector
+list
+-
+sstream
+-
+string
+-
+bits/stdc++.h
+-
+cmath
+-
+
