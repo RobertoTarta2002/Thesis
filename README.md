@@ -17,14 +17,12 @@ This chapter provides detailed documentation on the functionality and features o
 It will guide you through the process of utilizing the different components and understanding the underlying concepts.
 
 # Known Issues
-Please note that the Karnaugh and Tabulation classes will not currently function as expected due to the presence of multiple bugs. 
-Although the logic behind the code is sound, these bugs prevent the application from producing the desired output. 
-The Boolean class also has slight bugs, some particular inputs may return an error.
-I'm still attempting to fix these bugs.
+Please note that the Karnaugh and Tabulation classes will not currently function as expected due to the presence of multiple issues. 
+Although the logic behind the code is sound, these issues prevent the application from producing the desired output. 
+The Boolean class also has slight issues, some particular inputs may return an error.
+I'm still attempting to fix these problems.
 
-Feel free to explore the remaining parts of the application and refer to other sections of the thesis for additional information.
-
-Thank you for your interest in my thesis project!
+Feel free to explore the remaining parts of the application and refer to other sections of the thesis paper for additional information.
 
 Best regards,
 Roberto Tarta
